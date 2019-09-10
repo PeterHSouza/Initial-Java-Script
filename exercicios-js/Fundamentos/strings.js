@@ -1,9 +1,10 @@
 const escola = "Cod3r"
 
-console.log(escola.charAt(4))
+console.log(escola.charAt(4))// gera o caractere que esta na posicao 4 = "r"
 console.log(escola.charAt(5))
-console.log(escola.charCodeAt(3))
+console.log(escola.charCodeAt(3))// gera o numero da letra no campo decimal
 console.log(escola.indexOf('3'))// vai retornar o indice "3" de dentro do Cod3r
+
 
 console.log(escola.substring(1))//conta sem o primeiro caractere
 console.log(escola.substring(0, 3))//conta do 1 caractere e nao conta o terceiro
