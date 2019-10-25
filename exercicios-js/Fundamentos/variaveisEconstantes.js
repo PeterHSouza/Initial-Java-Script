@@ -1,5 +1,5 @@
 var a = 3
-let b = 4
+let b = 4 //em geral se utiliza o let para criar a variavel
 
 var a = 30
 b = 40

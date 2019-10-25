@@ -1,6 +1,6 @@
 let qualquer = 'legal'
 console.log(qualquer)
-console.log(typeof qualquer)
+console.log(typeof qualquer)// typoff vai dizer que tipo da variavel
 qualquer = 3.1315
 console.log(qualquer)
 console.log(typeof qualquer)
