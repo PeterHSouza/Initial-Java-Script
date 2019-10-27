@@ -9,6 +9,6 @@ console.log(concatenacao, template)
 
 console.log(`1 + 1 = ${1 + 1}`) // o que estiver entre chaves ele vai tentar interpretar
 
-const up = texto => texto.toUpperCase()
+const up = texto => texto.toUpperCase()// uppercase para colocar as letras maiusculas 
 console.log(`Ei... ${up('cuidado')}!`)   
  

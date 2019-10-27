@@ -3,7 +3,7 @@ console.log(isAtivo)
 
 isAtivo = true
 console.log(isAtivo)
-
+console.log(typeof isAtivo)
 isAtivo = 1
 console.log(!!isAtivo)// '!' é uma negacao
 
