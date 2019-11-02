@@ -11,8 +11,8 @@ console.log('os verdadeiros...')
 console.log(!!3)
 console.log(!!-1)
 console.log(!!' ')// basta ter um espaco em branco
-console.log(!![])
-console.log(!!{})
+console.log(!![])// arrray  
+console.log(!!{})// objeto
 console.log(!!Infinity)
 console.log(!!(isAtivo = true))
 

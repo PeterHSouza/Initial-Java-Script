@@ -1,15 +1,15 @@
-let valor //nao inicializada
+let valor //nao inicializada /"let" faz definir variaveis
 console.log(valor)
 
 valor = null //ausencia de valor 
 console.log (valor)
-//console.log(valor.toString()) //ERRO!
+//console.log(valor.toString()) //ERRO! nao pode ler a propriedade de um string nulo
 
 const produto = {}
 console.log(produto.preco)
 console.log(produto)
 
-produtopreco = 3.50
+produto.preco = 3.50
 console.log(produto)
 
 produto.preco = undefined //evite atribuir undefined

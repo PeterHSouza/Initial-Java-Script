@@ -10,4 +10,8 @@ const prod2 = {
     preco: 79.90
     }
 
+
+    '{ "nome": "Camisa Polo", "preco": 79.9 }' //isso é um Json é um formato textual de objeto
+
 console.log(prod2)
+
