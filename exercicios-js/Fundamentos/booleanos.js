@@ -1,7 +1,7 @@
-let isAtivo = false // let se usa para alterar a variavel
+let isAtivo = false // let se usa para alterar a variavel quando quiser
 console.log(isAtivo)
 
-isAtivo = true
+isAtivo = true// foi modificado sem usar Let novamente
 console.log(isAtivo)
 console.log(typeof isAtivo)
 isAtivo = 1
