@@ -1,5 +1,5 @@
-const nome = ' Rebeca'
-const concatenacao = 'Olá' + nome + '!'
+const nome = 'Rebeca'
+const concatenacao = 'Olá ' + nome + '!'
 const template  = `
     Olá 
     ${nome}!` //abre com o simbolo da crase

@@ -11,6 +11,6 @@ const total = avaliacao1 * peso1 + avaliacao2 * peso2
 const media = total / (peso1 + peso2)
 
 console.log(media.toFixed(2)) // para deixar o numero com duas casas decimais 
-console.log (media.toString(2))// converte em binario
+console.log (media.toString(2))//  o {2} converte em binario
 console.log(typeof media)// para saber o tipo de funcao que é
 console.log(typeof Number)

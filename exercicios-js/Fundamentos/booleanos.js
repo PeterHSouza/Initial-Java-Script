@@ -4,6 +4,7 @@ console.log(isAtivo)
 isAtivo = true// foi modificado sem usar Let novamente
 console.log(isAtivo)
 console.log(typeof isAtivo)
+
 isAtivo = 1
 console.log(!!isAtivo)// '!' é uma negacao
 
